@@ -1,7 +1,7 @@
-* [Home](/)
-* Branding
-	* [Name, Seal, and Logos](/name-seal-logos.md)
-	* [Logo Standards](/logo-standards.md)
+- [Home](/)
+- Branding
+	- [Name, Seal, and Logos](/name-seal-logos.md)
+	- [Logo Standards](/logo-standards.md)
 	- [Color Palette](/color-palette.md)
 	- [Brand Standards](/brand-standards.md)
 - [Athletic Brand Management](/athletic-brand-management.md)
