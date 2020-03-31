@@ -2,7 +2,9 @@
 
 ![logo](/media/logo.svg)
 
-# Piedmont International University Marketing Guidelines
+# Marketing Guidelines
+## Piedmont International University
+
 > Guidelines for branding and marketing content at PIU.  
 
 [Get Started](#piedmont-international-university-marketing-guidelines)
