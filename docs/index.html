@@ -50,24 +50,22 @@
       themeColor: '#102648',
       coverpage: true,
       ga: 'UA-3216907-17',
-      search: 'auto', // default
+      search: 'auto',
 
-      // complete configuration parameters
       search: {
-        maxAge: 86400000, // Expiration time, the default one day
+        maxAge: 86400000,
         paths: 'auto',
         placeholder: 'Type to search',
         noData: 'No Results!',
-        // Headline depth, 1 - 6
         depth: 6,
-        hideOtherSidebarContent: false, // whether or not to hide other sidebar content
+        hideOtherSidebarContent: false,
      }
      plugins: [
        function(hook) {
          var footer = [
            '<hr/>',
            '<footer>',
-           '<span>&copy;2020<a href="https://piedmontu.edu">Piedmont International University</a></span>',
+           '<span>&copy;2020<a href="https://piedmontu.edu" target="blank">Piedmont International University</a></span>',
            '</footer>'
          ].join('');
 
@@ -76,7 +74,7 @@
          });
        }
       ]
-     }
+    };
   </script>
   <script>
   if (typeof navigator.serviceWorker !== 'undefined') {
