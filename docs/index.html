@@ -62,7 +62,21 @@
         depth: 6,
         hideOtherSidebarContent: false, // whether or not to hide other sidebar content
      }
-    }
+     plugins: [
+       function(hook) {
+         var footer = [
+           '<hr/>',
+           '<footer>',
+           '<span>&copy;2020<a href="https://piedmontu.edu">Piedmont International University</a>',
+           '</footer>'
+         ].join('');
+
+         hook.afterEach(function(html) {
+           return html + footer;
+         })
+       }
+      ]
+     }
   </script>
   <script>
   if (typeof navigator.serviceWorker !== 'undefined') {
