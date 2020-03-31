@@ -56,20 +56,6 @@
         depth: 6,
         hideOtherSidebarContent: false,
      }
-     plugins: [
-       function(hook) {
-         var footer = [
-           '<hr/>',
-           '<footer>',
-           '<span>&copy;2020<a href="https://piedmontu.edu" target="blank">Piedmont International University</a></span>',
-           '</footer>'
-         ].join('');
-
-         hook.afterEach(function(html) {
-           return html + footer;
-         });
-       }
-     ]
     }
   </script>
   <script>
