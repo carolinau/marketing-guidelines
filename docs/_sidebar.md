@@ -1,4 +1,3 @@
-<!-- docs/_sidebar.md -->
 
 * [Home](/)
 * Branding
@@ -14,3 +13,4 @@
 * [Social Media Standards](/social-media-standards.md)
 * [Public Relations and News Media](/public-relations-and-news-media.md)
 * [Advertising Approval](/advertising-approval.md)
+* [Campaign URL Structure](/facebook-ads-campaign-url-structure.md)
