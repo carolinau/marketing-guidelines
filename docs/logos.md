@@ -10,6 +10,8 @@
 
 [Horizontal Main](https://marketing.piedmontu.edu/logo-assets/horizontal-main.png)
 
+[Horizontal Main Text Only](https://marketing.piedmontu.edu/logo-assets/horizontal-main-text-only.png)
+
 [Vertical Stacked](https://marketing.piedmontu.edu/logo-assets/vertical-stacked.png)
 
 [Vertical Stacked White Gradient](https://marketing.piedmontu.edu/logo-assets/vertical-stacked-white-gradient.png)
