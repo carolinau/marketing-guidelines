@@ -66,4 +66,6 @@ Piedmont International University owns the following social media accounts:
 - [Piedmont International University](https://www.youtube.com/user/pbcgrad2009)
 
 ### Vimeo
-- [Piedmont International University](https://vimeo.com/piedmontiu)
+| Account Name | Responsible Employee(s) |
+|------|------|
+| [Piedmont International University](https://vimeo.com/piedmontiu) | Ian McIlwraith, Terrill Gilley |
