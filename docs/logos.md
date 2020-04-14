@@ -4,7 +4,15 @@
 
 [Vertical Main White](https://marketing.piedmontu.edu/logo-assets/vertical-main-white.png)
 
+[Vertical Main White Gradient](https://marketing.piedmontu.edu/logo-assets/vertical-main-white-gradient.png)
+
+[Vertical Main No Fill](https://marketing.piedmontu.edu/logo-assets/vertical-main-no-fill.png)
+
 [Horizontal Main](https://marketing.piedmontu.edu/logo-assets/horizontal-main.png)
+
+[Vertical Stacked](https://marketing.piedmontu.edu/logo-assets/vertical-stacked.png)
+
+[Vertical Stacked White Gradient](https://marketing.piedmontu.edu/logo-assets/vertical-stacked-white-gradient.png)
 
 [Icon Main](https://marketing.piedmontu.edu/logo-assets/icon-main.png)
 
@@ -16,7 +24,17 @@
 
 [Horizontal Seal](https://marketing.piedmontu.edu/logo-assets/horizontal-seal.png)
 
+[Icon Seal](https://marketing.piedmontu.edu/logo-assets/icon-seal.png)
+
 ## Bruins
 [Bruins Main](https://marketing.piedmontu.edu/logo-assets/bruins-main.png)
 
 [Bruins Secondary](https://marketing.piedmontu.edu/logo-assets/bruins-secondary.png)
+
+[Bruins Head](https://marketing.piedmontu.edu/logo-assets/bruins-head.png)
+
+## The Den
+
+[The Den Main](https://marketing.piedmontu.edu/logo-assets/den-main.png)
+
+[The Den Icon](https://marketing.piedmontu.edu/logo-assets/den-icon.png)
