@@ -1,22 +1,22 @@
 # Logos
 ## University Logos
-[Vertical Main](/logos/vertical-main.png)
+[Vertical Main](/logo-assets/vertical-main.png)
 
-[Vertical Main White](/logos/vertical-main-white.png)
+[Vertical Main White](/logo-assets/vertical-main-white.png)
 
-[Horizontal Main](/logos/horizontal-main.png)
+[Horizontal Main](/logo-assets/horizontal-main.png)
 
-[Icon Main](/logos/icon-main.png)
+[Icon Main](/logo-assets/icon-main.png)
 
-[Icon Main White](/logos/icon-main-white.png)
+[Icon Main White](/logo-assets/icon-main-white.png)
 
 
 ## University Seal
-[Vertical Seal](/logos/vertical-seal.png)
+[Vertical Seal](/logo-assets/vertical-seal.png)
 
-[Horizontal Seal](/logos/horizontal-seal.png)
+[Horizontal Seal](/logo-assets/horizontal-seal.png)
 
 ## Bruins
-[Bruins Main](/logos/bruins-main.png)
+[Bruins Main](/logo-assets/bruins-main.png)
 
-[Bruins Secondary](/logos/bruins-secondary.png)
+[Bruins Secondary](/logo-assets/bruins-secondary.png)
