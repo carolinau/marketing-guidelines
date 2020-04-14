@@ -6,6 +6,7 @@
 	* [Name, Seal, and Logos](/name-seal-logos.md)
 	* [Logo Standards](/logo-standards.md)
 	* [Color Palette](/color-palette.md)
+	* [Typography](/typography.md)
 	* [Brand Standards](/brand-standards.md)
 * [Athletic Brand Management](/athletic-brand-management.md)
 * Video & Photo
