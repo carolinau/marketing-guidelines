@@ -1,5 +1,7 @@
+<!-- docs/_sidebar.md -->
 
 * [Home](/)
+* [Logo Downloads](/logos.md)
 * Branding
 	* [Name, Seal, and Logos](/name-seal-logos.md)
 	* [Logo Standards](/logo-standards.md)
@@ -13,4 +15,3 @@
 * [Social Media Standards](/social-media-standards.md)
 * [Public Relations and News Media](/public-relations-and-news-media.md)
 * [Advertising Approval](/advertising-approval.md)
-* [Campaign URL Structure](/facebook-ads-campaign-url-structure.md)
