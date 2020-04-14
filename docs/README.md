@@ -7,9 +7,9 @@ Piedmont International University owns the following social media accounts:
 ### Facebook
 | Account Name | Responsible Employee(s) |
 |------|------|
-| [Piedmont International University](https://facebook.com/piedmontiu) |  |
-| [Piedmont International University Athletics](https://www.facebook.com/PIUBruins/) |  |
-| [The Den Coffee & Apparel](https://www.facebook.com/thedenpiu/) |  |
+| [Piedmont International University](https://facebook.com/piedmontiu) | Ian McIlwraith |
+| [Piedmont International University Athletics](https://www.facebook.com/PIUBruins/) | Shea Miller |
+| [The Den Coffee & Apparel](https://www.facebook.com/thedenpiu/) | Shaina Bottoms |
 | [PIU Men’s Soccer](https://www.facebook.com/piumsoc) |  |
 | [PIU Men’s Basketball](https://www.facebook.com/piumensbball/) |  |
 | [PIU Women’s Volleyball](https://www.facebook.com/PIUWVolleyball) |  |
@@ -20,15 +20,15 @@ Piedmont International University owns the following social media accounts:
 | [PIU Baseball](https://www.facebook.com/PIUBaseball) |  |
 | [Manuel Library](https://www.facebook.com/GeorgeMManuelLibrary) |  |
 | [E4-12](https://www.facebook.com/e4Today) |  |
-| [Piedmont International University Portuguese](https://www.facebook.com/PIUPortuguese) |  |
-| [Piedmont International University Alumni](https://www.facebook.com/PIUalumni) |  |
+| [Piedmont International University Portuguese](https://www.facebook.com/PIUPortuguese) | Andre Tavares |
+| [Piedmont International University Alumni](https://www.facebook.com/PIUalumni) | Susan Largent |
 
 ### Instagram
 | Account Name | Responsible Employee(s) |
 |------|------|
 | [Piedmont International University](https://www.instagram.com/piedmontiu/) | Ian McIlwraith |
 | [PIU Athletics](https://www.instagram.com/piubruins/) | Shea Miller |
-| [The Den](https://www.instagram.com/thedenpiu/) |  |
+| [The Den](https://www.instagram.com/thedenpiu/) | Shaina Bottoms |
 | [PIU Men’s Basketball](https://www.instagram.com/piumensbball/) |  |
 | [PIU Women’s Soccer](https://www.instagram.com/piuwsoccer/) |  |
 | [PIU Volleyball](https://www.instagram.com/piuvolleyball/) |  |
@@ -65,7 +65,8 @@ Piedmont International University owns the following social media accounts:
 | [Moore School of Education](https://twitter.com/mooreschoolofed) |  |
 | [MOSE Elementary Education](https://twitter.com/MSOE_Elementary) |  |
 
-### LinkedIn| Account Name | Responsible Employee(s) |
+### LinkedIn
+| Account Name | Responsible Employee(s) |
 |------|------|
 | [Piedmont International University](https://www.linkedin.com/school/piedmont-international-university/) |  |
 
