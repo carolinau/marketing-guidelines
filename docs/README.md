@@ -43,21 +43,23 @@ Piedmont International University owns the following social media accounts:
 - [PIU Student Life](https://www.instagram.com/thebruincave/)
 
 ### Twitter
-- [Piedmont IU](https://twitter.com/piedmontiu)
-- [PIU Athletics](https://twitter.com/piubruins)
-- [PIU Baseball](https://twitter.com/piubaseball)
-- [PIU Women’s Basketball](https://twitter.com/piuladybruins)
-- [PIU Men’s Basketball](https://twitter.com/piumensbball)
-- [PIU Men’s Volleyball](https://twitter.com/piumvball)
-- [PIU Softball](https://twitter.com/piusoftball)
-- [PIU Volleyball](https://twitter.com/piuvolleyball)
-- [PIU Men’s Soccer](https://twitter.com/piumsoc)
-- [PIU Women’s Soccer](https://twitter.com/piuwsoccer)
-- [PIU Cheerleading](https://twitter.com/piucheerleading)
-- [PIU Youth & Missions](https://twitter.com/PIUschoolofmin)
-- [PIU Church Planting](https://twitter.com/piu_nacp)
-- [Moore School of Education](https://twitter.com/mooreschoolofed)
-- [MOSE Elementary Education](https://twitter.com/MSOE_Elementary)
+| Account Name | Responsible Employee(s) |
+|------|------|
+| [Piedmont IU](https://twitter.com/piedmontiu) | Ian McIlwraith |
+| [PIU Athletics](https://twitter.com/piubruins) | Shea Miller |
+| [PIU Baseball](https://twitter.com/piubaseball) |  |
+| [PIU Women’s Basketball](https://twitter.com/piuladybruins) |  |
+| [PIU Men’s Basketball](https://twitter.com/piumensbball) |  |
+| [PIU Men’s Volleyball](https://twitter.com/piumvball) |  |
+| [PIU Softball](https://twitter.com/piusoftball) |  |
+| [PIU Volleyball](https://twitter.com/piuvolleyball) |  |
+| [PIU Men’s Soccer](https://twitter.com/piumsoc) |  |
+| [PIU Women’s Soccer](https://twitter.com/piuwsoccer) |  |
+| [PIU Cheerleading](https://twitter.com/piucheerleading) |  |
+| [PIU Youth & Missions](https://twitter.com/PIUschoolofmin) |  |
+| [PIU Church Planting](https://twitter.com/piu_nacp) |  |
+| [Moore School of Education](https://twitter.com/mooreschoolofed) |  |
+| [MOSE Elementary Education](https://twitter.com/MSOE_Elementary) |  |
 
 ### LinkedIn
 - [Piedmont International University](https://www.linkedin.com/school/piedmont-international-university/)
