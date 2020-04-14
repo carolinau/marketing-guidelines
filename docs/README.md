@@ -57,6 +57,7 @@ Piedmont International University owns the following social media accounts:
 - [PIU Youth & Missions](https://twitter.com/PIUschoolofmin)
 - [PIU Church Planting](https://twitter.com/piu_nacp)
 - [Moore School of Education](https://twitter.com/mooreschoolofed)
+- [MOSE Elementary Education](https://twitter.com/MSOE_Elementary)
 
 ### LinkedIn
 - [Piedmont International University](https://www.linkedin.com/school/piedmont-international-university/)
