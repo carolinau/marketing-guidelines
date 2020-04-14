@@ -1,6 +1,8 @@
 # Logo Standards
 > A few rules are necessary for maintaining the integrity of the brand.   
 
+> Refer to the [Logos](/logos.md) page for full-resolution copies of the logos mentioned.  
+
 ## Usage
 Do not compromise the overall look of the logo by rotating, skewing, or distorting of any kind — including adding unnecessary and unattractive text decorations like drop shadows and outlines, as well as adding any other text or images on top of the logo.
 

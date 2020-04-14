@@ -1,6 +1,8 @@
 # Athletic Brand Management
 > It is essential to the success of the brand that the Bruin logo always be applied with care and respect in every application according to the brand guide.  
 
+> Refer to the [Logos](/logos.md) page for full-resolution copies of the logos mentioned.  
+
 ## Policy Procedures
 Piedmont International University’s primary athletic logo consists of a wordmark and a character icon. The main lettering is meant to have a passionate and intimidating feel, that plays off of the competitive nature of the athletic program.
 
@@ -15,12 +17,3 @@ Marketing and Communication Department.
 * Do not rotate the logo.
 * Do not squash or stretch the logo.
 * Do not add drop shadows or other text styles.
-
-## Logos
-
-![](/media/bruins-main.png)
-Bruins Main Logo
-
-
-![](/media/bruins-secondary.png)
-Bruins Secondary Logo

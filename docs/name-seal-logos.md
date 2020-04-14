@@ -1,4 +1,6 @@
 # Name, Seal, and Logos
+> Refer to the [Logos](/logos.md) page for full-resolution copies of the logos mentioned.  
+
 It is the policy of Piedmont International University that the development and application of Piedmont International University’s brand standards are determined by the Marketing and Communications Department as approved by the office of the President.
 
 ## Procedures
