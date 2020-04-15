@@ -44,7 +44,7 @@ Piedmont International University owns the following social media accounts:
 | [Moore School of Education](https://www.instagram.com/piuschoolofed/) | Ed Venable | ❌ |
 | [PIU Dining](https://www.instagram.com/piudining/) | Christina Mach | ❌ |
 | [PIU Societies](https://www.instagram.com/piu_societies/) | Kendrick Trogdon | ❌ |
-| [PIU Portuguese](https://www.instagram.com/piuport/) | Andre Tavares | ✅ |
+| [PIU Portuguese](https://www.instagram.com/piuport/) | Andre Tavares | ❌ |
 | [PIU Church Planting](https://www.instagram.com/piu_nacp/) | Dustin Connor† | ❌ |
 | [PIU Student Life](https://www.instagram.com/thebruincave/) | Matt Malin | ❌ |
 | [Recycle Retreat](https://www.instagram.com/recycleretreat/) | Shean Phillips | ❌ |
@@ -80,7 +80,7 @@ Piedmont International University owns the following social media accounts:
 ### YouTube
 | Account Name | Responsible Employee(s) | Access Granted |
 |------|------|------|
-| [Piedmont International University](https://www.youtube.com/user/pbcgrad2009) | Ian McIlwraith | ❌ |
+| [Piedmont International University](https://www.youtube.com/c/PiedmontInternationalUniversity) | Ian McIlwraith | ✅ |
 
 ### Vimeo
 | Account Name | Responsible Employee(s) | Access Granted |
