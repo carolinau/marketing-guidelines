@@ -20,7 +20,7 @@ Piedmont International University owns the following social media accounts:
 | [PIU Baseball](https://www.facebook.com/PIUBaseball) | Shea Miller | ✅ |
 | [Manuel Library](https://www.facebook.com/GeorgeMManuelLibrary) | April Lindsey | ❌ |
 | [E4-12](https://www.facebook.com/e4Today) | Dustin Connor† | ❌ |
-| [Piedmont International University Portuguese](https://www.facebook.com/PIUPortuguese) | Andre Tavares | ❌ |
+| [Piedmont International University Portuguese](https://www.facebook.com/PIUPortuguese) | Andre Tavares | ✅ |
 | [Piedmont International University Alumni](https://www.facebook.com/PIUalumni) | Susan Largent | ✅ |
 
 *†indicates the account is to be shut down*
@@ -44,7 +44,7 @@ Piedmont International University owns the following social media accounts:
 | [Moore School of Education](https://www.instagram.com/piuschoolofed/) | Ed Venable | ❌ |
 | [PIU Dining](https://www.instagram.com/piudining/) | Christina Mach | ❌ |
 | [PIU Societies](https://www.instagram.com/piu_societies/) | Kendrick Trogdon | ❌ |
-| [PIU Portuguese](https://www.instagram.com/piuport/) | Andre Tavares | ❌ |
+| [PIU Portuguese](https://www.instagram.com/piuport/) | Andre Tavares | ✅ |
 | [PIU Church Planting](https://www.instagram.com/piu_nacp/) | Dustin Connor† | ❌ |
 | [PIU Student Life](https://www.instagram.com/thebruincave/) | Matt Malin | ❌ |
 | [Recycle Retreat](https://www.instagram.com/recycleretreat/) | Shean Phillips | ❌ |
