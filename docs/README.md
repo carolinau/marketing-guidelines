@@ -29,24 +29,27 @@ Piedmont International University owns the following social media accounts:
 | Account Name | Responsible Employee(s) | Access Granted |
 |------|------|------|
 | [Piedmont International University](https://www.instagram.com/piedmontiu/) | Ian McIlwraith | ✅ |
-| [PIU Athletics](https://www.instagram.com/piubruins/) | Shea Miller | | ✅ |
+| [PIU Athletics](https://www.instagram.com/piubruins/) | Shea Miller | ✅ |
 | [The Den](https://www.instagram.com/thedenpiu/) | Shaina Bottoms | ❌ |
-| [PIU Men’s Basketball](https://www.instagram.com/piumensbball/) | Shea Miller | | ✅ |
-| [PIU Women’s Soccer](https://www.instagram.com/piuwsoccer/) | Shea Miller, Kyle Neal | | ✅ |
+| [PIU Men’s Basketball](https://www.instagram.com/piumensbball/) | Shea Miller | ✅ |
+| [PIU Women’s Soccer](https://www.instagram.com/piuwsoccer/) | Shea Miller, Kyle Neal | ✅ |
 | [PIU Women’s Volleyball](https://www.instagram.com/piuvolleyball/) | Shea Miller, Brenn Ferguson | ✅ |
-| [PIU Men’s Soccer](https://www.instagram.com/piumsoc/) | Shea Miller | | ✅ |
+| [PIU Men’s Soccer](https://www.instagram.com/piumsoc/) | Shea Miller | ✅ |
 | [PIU Women’s Basketball](https://www.instagram.com/piuladybruins/) | Shea Miller, Toccara Tatum | ✅ |
 | [PIU Softball](https://www.instagram.com/piusoftball/) | Shea Miller, Amber Bass | ✅ |
 | [PIU Baseball](https://www.instagram.com/piubaseball/) | Shea Miller | ✅ |
 | [PIU Cheerleading](https://www.instagram.com/piucheerleading/) | Shea Miller, Kaleb Henry | ✅ |
 | [PIU Men’s Volleyball](https://www.instagram.com/piumvball/) | Shea Miller | ✅ |
 | [PIU XC/TF](https://www.instagram.com/piu_xctf/) | Shea Miller | ✅ |
-| [Moore School of Education](https://www.instagram.com/piuschoolofed/) | Ed Venable | :cross
+| [Moore School of Education](https://www.instagram.com/piuschoolofed/) | Ed Venable | ❌ |
 | [PIU Dining](https://www.instagram.com/piudining/) | Christina Mach | ❌ |
 | [PIU Societies](https://www.instagram.com/piu_societies/) | Kendrick Trogdon | ❌ |
 | [PIU Portuguese](https://www.instagram.com/piuport/) | Andre Tavares | ❌ |
 | [PIU Church Planting](https://www.instagram.com/piu_nacp/) | Dustin Connor† | ❌ |
 | [PIU Student Life](https://www.instagram.com/thebruincave/) | Matt Malin | ❌ |
+| [Recycle Retreat](https://www.instagram.com/recycleretreat/) | Shean Phillips | ❌ |
+| [PIU Zombies](https://www.instagram.com/piuzombies/) | † | ❌ |
+| [The Bible Guys Podcast](https://www.instagram.com/bibleguyspod/) |  | ❌ |
 
 *†indicates the account is to be shut down*
 
