@@ -9,7 +9,7 @@ Piedmont International University owns the following social media accounts:
 |------|------|------|
 | [Piedmont International University](https://facebook.com/piedmontiu) | Ian McIlwraith | ✅ |
 | [Piedmont International University Athletics](https://www.facebook.com/PIUBruins/) | Shea Miller | ✅ |
-| [The Den Coffee & Apparel](https://www.facebook.com/thedenpiu/) | Shaina Bottoms |
+| [The Den Coffee & Apparel](https://www.facebook.com/thedenpiu/) | Shaina Bottoms | ❎ |
 | [PIU Men’s Soccer](https://www.facebook.com/piumsoc) | Shea Miller | ✅ |
 | [PIU Men’s Basketball](https://www.facebook.com/piumensbball/) | Shea Miller | ✅ |
 | [PIU Women’s Volleyball](https://www.facebook.com/PIUWVolleyball) | Shea Miller, Brenn Ferguson | ✅ |
@@ -18,9 +18,9 @@ Piedmont International University owns the following social media accounts:
 | [PIU Men’s Volleyball](https://www.facebook.com/PIUMVB) | Shea Miller | ✅ |
 | [PIU Softball](https://www.facebook.com/PIUSoftball) | Shea Miller, Amber Bass | ✅ |
 | [PIU Baseball](https://www.facebook.com/PIUBaseball) | Shea Miller | ✅ |
-| [Manuel Library](https://www.facebook.com/GeorgeMManuelLibrary) | April Lindsey |
-| [E4-12](https://www.facebook.com/e4Today) | Dustin Connor† |
-| [Piedmont International University Portuguese](https://www.facebook.com/PIUPortuguese) | Andre Tavares |
+| [Manuel Library](https://www.facebook.com/GeorgeMManuelLibrary) | April Lindsey | ❎ |
+| [E4-12](https://www.facebook.com/e4Today) | Dustin Connor† | ❎ |
+| [Piedmont International University Portuguese](https://www.facebook.com/PIUPortuguese) | Andre Tavares | ❎ |
 | [Piedmont International University Alumni](https://www.facebook.com/PIUalumni) | Susan Largent | ✅ |
 
 *†indicates the account is to be shut down*
@@ -30,7 +30,7 @@ Piedmont International University owns the following social media accounts:
 |------|------|------|
 | [Piedmont International University](https://www.instagram.com/piedmontiu/) | Ian McIlwraith | ✅ |
 | [PIU Athletics](https://www.instagram.com/piubruins/) | Shea Miller | | ✅ |
-| [The Den](https://www.instagram.com/thedenpiu/) | Shaina Bottoms |
+| [The Den](https://www.instagram.com/thedenpiu/) | Shaina Bottoms | ❎ |
 | [PIU Men’s Basketball](https://www.instagram.com/piumensbball/) | Shea Miller | | ✅ |
 | [PIU Women’s Soccer](https://www.instagram.com/piuwsoccer/) | Shea Miller, Kyle Neal | | ✅ |
 | [PIU Women’s Volleyball](https://www.instagram.com/piuvolleyball/) | Shea Miller, Brenn Ferguson | | ✅ |
@@ -42,18 +42,18 @@ Piedmont International University owns the following social media accounts:
 | [PIU Men’s Volleyball](https://www.instagram.com/piumvball/) | Shea Miller | | ✅ |
 | [PIU XC/TF](https://www.instagram.com/piu_xctf/) | Shea Miller | | ✅ |
 | [Moore School of Education](https://www.instagram.com/piuschoolofed/) | Ed Venable |
-| [PIU Dining](https://www.instagram.com/piudining/) | Christina Mach |
-| [PIU Societies](https://www.instagram.com/piu_societies/) | Kendrick Trogdon |
-| [PIU Portuguese](https://www.instagram.com/piuport/) | Andre Tavares |
-| [PIU Church Planting](https://www.instagram.com/piu_nacp/) | Dustin Connor† |
-| [PIU Student Life](https://www.instagram.com/thebruincave/) | Matt Malin |
+| [PIU Dining](https://www.instagram.com/piudining/) | Christina Mach | ❎ |
+| [PIU Societies](https://www.instagram.com/piu_societies/) | Kendrick Trogdon | ❎ |
+| [PIU Portuguese](https://www.instagram.com/piuport/) | Andre Tavares | ❎ |
+| [PIU Church Planting](https://www.instagram.com/piu_nacp/) | Dustin Connor† | ❎ |
+| [PIU Student Life](https://www.instagram.com/thebruincave/) | Matt Malin | ❎ |
 
 *†indicates the account is to be shut down*
 
 ### Twitter
 | Account Name | Responsible Employee(s) | Access Granted |
 |------|------|------|
-| [Piedmont IU](https://twitter.com/piedmontiu) | Ian McIlwraith |
+| [Piedmont IU](https://twitter.com/piedmontiu) | Ian McIlwraith | ❎ |
 | [PIU Athletics](https://twitter.com/piubruins) | Shea Miller | ✅ |
 | [PIU Baseball](https://twitter.com/piubaseball) | Shea Miller | ✅ |
 | [PIU Women’s Basketball](https://twitter.com/piuladybruins) | Shea Miller, Toccara Tatum | ✅ |
@@ -65,23 +65,23 @@ Piedmont International University owns the following social media accounts:
 | [PIU Women’s Soccer](https://twitter.com/piuwsoccer) | Shea Miller, Kyle Neal | ✅ |
 | [PIU Cheerleading](https://twitter.com/piucheerleading) | Shea Miller, Kaleb Henry | ✅ |
 | [PIU Youth & Missions](https://twitter.com/PIUschoolofmin) | Shean Phillips† | ✅ |
-| [PIU Church Planting](https://twitter.com/piu_nacp) | Dustin Connor† |
-| [Moore School of Education](https://twitter.com/mooreschoolofed) | Ed Venable† |
-| [MSOE Elementary Education](https://twitter.com/MSOE_Elementary) | Ed Venable |
+| [PIU Church Planting](https://twitter.com/piu_nacp) | Dustin Connor† | ❎ |
+| [Moore School of Education](https://twitter.com/mooreschoolofed) | Ed Venable† | ❎ |
+| [MSOE Elementary Education](https://twitter.com/MSOE_Elementary) | Ed Venable | ❎ |
 
 *†indicates the account is to be shut down*
 
 ### LinkedIn
-| Account Name | Responsible Employee(s) |
-|------|------|
-| [Piedmont International University](https://www.linkedin.com/school/piedmont-international-university/) | Ian McIlwraith |
+| Account Name | Responsible Employee(s) | Access Granted |
+|------|------|------|
+| [Piedmont International University](https://www.linkedin.com/school/piedmont-international-university/) | Ian McIlwraith | ❎ |
 
 ### YouTube
-| Account Name | Responsible Employee(s) |
-|------|------|
-| [Piedmont International University](https://www.youtube.com/user/pbcgrad2009) | Ian McIlwraith |
+| Account Name | Responsible Employee(s) | Access Granted |
+|------|------|------|
+| [Piedmont International University](https://www.youtube.com/user/pbcgrad2009) | Ian McIlwraith | ❎ |
 
 ### Vimeo
 | Account Name | Responsible Employee(s) |
-|------|------|
+|------|------|------|
 | [Piedmont International University](https://vimeo.com/piedmontiu) | Ian McIlwraith, Terrill Gilley | ✅ |
