@@ -6,7 +6,7 @@ Piedmont International University owns the following social media accounts:
 
 ### Facebook
 | Account Name | Responsible Employee(s) | Access Granted |
-|------|------|
+|------|------|------|
 | [Piedmont International University](https://facebook.com/piedmontiu) | Ian McIlwraith | ✅ |
 | [Piedmont International University Athletics](https://www.facebook.com/PIUBruins/) | Shea Miller | ✅ |
 | [The Den Coffee & Apparel](https://www.facebook.com/thedenpiu/) | Shaina Bottoms |
@@ -27,7 +27,7 @@ Piedmont International University owns the following social media accounts:
 
 ### Instagram
 | Account Name | Responsible Employee(s) | Access Granted |
-|------|------|
+|------|------|------|
 | [Piedmont International University](https://www.instagram.com/piedmontiu/) | Ian McIlwraith | ✅ |
 | [PIU Athletics](https://www.instagram.com/piubruins/) | Shea Miller | | ✅ |
 | [The Den](https://www.instagram.com/thedenpiu/) | Shaina Bottoms |
@@ -52,7 +52,7 @@ Piedmont International University owns the following social media accounts:
 
 ### Twitter
 | Account Name | Responsible Employee(s) | Access Granted |
-|------|------|
+|------|------|------|
 | [Piedmont IU](https://twitter.com/piedmontiu) | Ian McIlwraith |
 | [PIU Athletics](https://twitter.com/piubruins) | Shea Miller | ✅ |
 | [PIU Baseball](https://twitter.com/piubaseball) | Shea Miller | ✅ |
