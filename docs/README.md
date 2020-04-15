@@ -49,7 +49,6 @@ Piedmont International University owns the following social media accounts:
 | [PIU Student Life](https://www.instagram.com/thebruincave/) | Matt Malin | ❌ |
 | [Recycle Retreat](https://www.instagram.com/recycleretreat/) | Shean Phillips | ❌ |
 | [PIU Zombies](https://www.instagram.com/piuzombies/) | † | ❌ |
-| [The Bible Guys Podcast](https://www.instagram.com/bibleguyspod/) |  | ❌ |
 
 *†indicates the account is to be shut down*
 
