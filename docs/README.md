@@ -18,7 +18,7 @@ Piedmont International University owns the following social media accounts:
 | [PIU Men’s Volleyball](https://www.facebook.com/PIUMVB) | Shea Miller |
 | [PIU Softball](https://www.facebook.com/PIUSoftball) | Shea Miller, Amber Bass |
 | [PIU Baseball](https://www.facebook.com/PIUBaseball) | Shea Miller |
-| [Manuel Library](https://www.facebook.com/GeorgeMManuelLibrary) |  |
+| [Manuel Library](https://www.facebook.com/GeorgeMManuelLibrary) | April Lindsey |
 | [E4-12](https://www.facebook.com/e4Today) |  | Shut Down
 | [Piedmont International University Portuguese](https://www.facebook.com/PIUPortuguese) | Andre Tavares |
 | [Piedmont International University Alumni](https://www.facebook.com/PIUalumni) | Susan Largent |
@@ -41,11 +41,11 @@ Piedmont International University owns the following social media accounts:
 | [PIU Men’s Volleyball](https://www.instagram.com/piumvball/) | Shea Miller |
 | [PIU XC/TF](https://www.instagram.com/piu_xctf/) | Shea Miller |
 | [Moore School of Education](https://www.instagram.com/piuschoolofed/) |  |
-| [PIU Dining](https://www.instagram.com/piudining/) |  |
+| [PIU Dining](https://www.instagram.com/piudining/) | Christina Mach |
 | [PIU Societies](https://www.instagram.com/piu_societies/) |  | Shut Down
 | [PIU Portuguese](https://www.instagram.com/piuport/) | Andre Tavares |
-| [PIU Church Planting](https://www.instagram.com/piu_nacp/) |  | Shut Down
-| [PIU Student Life](https://www.instagram.com/thebruincave/) |  |
+| [PIU Church Planting](https://www.instagram.com/piu_nacp/) | Dustin Connor | Shut Down
+| [PIU Student Life](https://www.instagram.com/thebruincave/) | Matt Malin |
 
 ### Twitter
 | Account Name | Responsible Employee(s) |
@@ -61,15 +61,15 @@ Piedmont International University owns the following social media accounts:
 | [PIU Men’s Soccer](https://twitter.com/piumsoc) | Shea Miller |
 | [PIU Women’s Soccer](https://twitter.com/piuwsoccer) | Shea Miller, Kyle Neal |
 | [PIU Cheerleading](https://twitter.com/piucheerleading) | Shea Miller, Kaleb Henry |
-| [PIU Youth & Missions](https://twitter.com/PIUschoolofmin) |  | Shut Down
-| [PIU Church Planting](https://twitter.com/piu_nacp) |  | Shut Down
-| [Moore School of Education](https://twitter.com/mooreschoolofed) |  | Shut Down
-| [MSOE Elementary Education](https://twitter.com/MSOE_Elementary) |  |
+| [PIU Youth & Missions](https://twitter.com/PIUschoolofmin) | Shean Phillips | Shut Down
+| [PIU Church Planting](https://twitter.com/piu_nacp) | Dustin Connor | Shut Down
+| [Moore School of Education](https://twitter.com/mooreschoolofed) | Ed Venable | Shut Down
+| [MSOE Elementary Education](https://twitter.com/MSOE_Elementary) | Ed Venable |
 
 ### LinkedIn
 | Account Name | Responsible Employee(s) |
 |------|------|
-| [Piedmont International University](https://www.linkedin.com/school/piedmont-international-university/) |  |
+| [Piedmont International University](https://www.linkedin.com/school/piedmont-international-university/) | Ian McIlwraith |
 
 ### YouTube
 | Account Name | Responsible Employee(s) |
