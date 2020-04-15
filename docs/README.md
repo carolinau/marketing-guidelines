@@ -19,10 +19,12 @@ Piedmont International University owns the following social media accounts:
 | [PIU Softball](https://www.facebook.com/PIUSoftball) | Shea Miller, Amber Bass |
 | [PIU Baseball](https://www.facebook.com/PIUBaseball) | Shea Miller |
 | [Manuel Library](https://www.facebook.com/GeorgeMManuelLibrary) | April Lindsey |
-| [E4-12](https://www.facebook.com/e4Today) |  | Shut Down
+| [E4-12](https://www.facebook.com/e4Today) | † |
 | [Piedmont International University Portuguese](https://www.facebook.com/PIUPortuguese) | Andre Tavares |
 | [Piedmont International University Alumni](https://www.facebook.com/PIUalumni) | Susan Largent |
-| [The BLOC](https://www.facebook.com/The-BLOC-146134068864720) |  | Shut Down
+| [The BLOC](https://www.facebook.com/The-BLOC-146134068864720) | Sheila Snider† |
+
+*†indicates the account it to be shut down*
 
 ### Instagram
 | Account Name | Responsible Employee(s) |
@@ -40,12 +42,14 @@ Piedmont International University owns the following social media accounts:
 | [PIU Cheerleading](https://www.instagram.com/piucheerleading/) | Shea Miller, Kaleb Henry |
 | [PIU Men’s Volleyball](https://www.instagram.com/piumvball/) | Shea Miller |
 | [PIU XC/TF](https://www.instagram.com/piu_xctf/) | Shea Miller |
-| [Moore School of Education](https://www.instagram.com/piuschoolofed/) |  |
+| [Moore School of Education](https://www.instagram.com/piuschoolofed/) | Ed Venable |
 | [PIU Dining](https://www.instagram.com/piudining/) | Christina Mach |
 | [PIU Societies](https://www.instagram.com/piu_societies/) |  | Shut Down
 | [PIU Portuguese](https://www.instagram.com/piuport/) | Andre Tavares |
-| [PIU Church Planting](https://www.instagram.com/piu_nacp/) | Dustin Connor | Shut Down
+| [PIU Church Planting](https://www.instagram.com/piu_nacp/) | Dustin Connor* |
 | [PIU Student Life](https://www.instagram.com/thebruincave/) | Matt Malin |
+
+*†indicates the account it to be shut down*
 
 ### Twitter
 | Account Name | Responsible Employee(s) |
@@ -61,10 +65,12 @@ Piedmont International University owns the following social media accounts:
 | [PIU Men’s Soccer](https://twitter.com/piumsoc) | Shea Miller |
 | [PIU Women’s Soccer](https://twitter.com/piuwsoccer) | Shea Miller, Kyle Neal |
 | [PIU Cheerleading](https://twitter.com/piucheerleading) | Shea Miller, Kaleb Henry |
-| [PIU Youth & Missions](https://twitter.com/PIUschoolofmin) | Shean Phillips | Shut Down
-| [PIU Church Planting](https://twitter.com/piu_nacp) | Dustin Connor | Shut Down
-| [Moore School of Education](https://twitter.com/mooreschoolofed) | Ed Venable | Shut Down
+| [PIU Youth & Missions](https://twitter.com/PIUschoolofmin) | Shean Phillips† |
+| [PIU Church Planting](https://twitter.com/piu_nacp) | Dustin Connor† |
+| [Moore School of Education](https://twitter.com/mooreschoolofed) | Ed Venable† |
 | [MSOE Elementary Education](https://twitter.com/MSOE_Elementary) | Ed Venable |
+
+*†indicates the account it to be shut down*
 
 ### LinkedIn
 | Account Name | Responsible Employee(s) |
