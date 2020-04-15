@@ -67,7 +67,6 @@ Piedmont International University owns the following social media accounts:
 | [PIU Men’s Soccer](https://twitter.com/piumsoc) | Shea Miller | ✅ |
 | [PIU Women’s Soccer](https://twitter.com/piuwsoccer) | Shea Miller, Kyle Neal | ✅ |
 | [PIU Cheerleading](https://twitter.com/piucheerleading) | Shea Miller, Kaleb Henry | ✅ |
-| [PIU Youth & Missions](https://twitter.com/PIUschoolofmin) | Shean Phillips† | ✅ |
 | [PIU Church Planting](https://twitter.com/piu_nacp) | Dustin Connor† | ❌ |
 | [Moore School of Education](https://twitter.com/mooreschoolofed) | Ed Venable† | ❌ |
 | [MSOE Elementary Education](https://twitter.com/MSOE_Elementary) | Ed Venable | ❌ |
