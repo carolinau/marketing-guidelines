@@ -42,3 +42,7 @@
 [The Den Main](https://marketing.piedmontu.edu/logo-assets/den-main.png)
 
 [The Den Icon](https://marketing.piedmontu.edu/logo-assets/den-icon.png)
+
+## Other
+
+[Website Favicon](https://marketing.piedmontu.edu/logo-assets/favicon.ico)
