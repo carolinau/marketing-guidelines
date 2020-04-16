@@ -8,6 +8,8 @@
 
 [Vertical Main No Fill](https://marketing.piedmontu.edu/logo-assets/vertical-main-no-fill.png)
 
+[Vertical Main Social](https://marketing.piedmontu.edu/logo-assets/vertical-main-social.png)
+
 [Horizontal Main](https://marketing.piedmontu.edu/logo-assets/horizontal-main.png)
 
 [Horizontal Main Text Only](https://marketing.piedmontu.edu/logo-assets/horizontal-main-text-only.png)
