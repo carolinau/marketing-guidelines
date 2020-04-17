@@ -19,11 +19,8 @@ Piedmont International University owns the following social media accounts:
 | [PIU Softball](https://www.facebook.com/PIUSoftball) | Shea Miller, Amber Bass | ✅ |
 | [PIU Baseball](https://www.facebook.com/PIUBaseball) | Shea Miller | ✅ |
 | [Manuel Library](https://www.facebook.com/GeorgeMManuelLibrary) | April Lindsey | ✅ |
-| [E4-12](https://www.facebook.com/e4Today) | Ian McIlwraith† | ✅ |
 | [Piedmont International University Portuguese](https://www.facebook.com/PIUPortuguese) | Andre Tavares | ✅ |
 | [Piedmont International University Alumni](https://www.facebook.com/PIUalumni) | Susan Largent | ✅ |
-
-*†indicates the account is to be shut down*
 
 ### Instagram
 | Account Name | Responsible Employee(s) | Access Granted |
@@ -88,4 +85,4 @@ Piedmont International University owns the following social media accounts:
 ### Livestream
 | Account Name | Responsible Employee(s) | Access Granted |
 |------|------|------|
-| [Piedmont International University](https://livestream.com/piu) | Ian McIlwraith | ❌ |
+| [Piedmont International University](https://livestream.com/piu) | Ian McIlwraith | ✅ |
