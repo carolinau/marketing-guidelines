@@ -45,7 +45,6 @@ Piedmont International University owns the following social media accounts:
 | [PIU Dining](https://www.instagram.com/piudining/) | Christina Mach | ❌ |
 | [PIU Societies](https://www.instagram.com/piu_societies/) | Kendrick Trogdon | ❌ |
 | [PIU Portuguese](https://www.instagram.com/piuport/) | Andre Tavares | ❌ |
-| [PIU Church Planting](https://www.instagram.com/piu_nacp/) | Dustin Connor† | ❌ |
 | [PIU Student Life](https://www.instagram.com/thebruincave/) | Matt Malin | ❌ |
 | [Recycle Retreat](https://www.instagram.com/recycleretreat/) | Shean Phillips | ❌ |
 | [PIU Zombies](https://www.instagram.com/piuzombies/) | † | ❌ |
@@ -66,7 +65,6 @@ Piedmont International University owns the following social media accounts:
 | [PIU Men’s Soccer](https://twitter.com/piumsoc) | Shea Miller | ✅ |
 | [PIU Women’s Soccer](https://twitter.com/piuwsoccer) | Shea Miller, Kyle Neal | ✅ |
 | [PIU Cheerleading](https://twitter.com/piucheerleading) | Shea Miller, Kaleb Henry | ✅ |
-| [PIU Church Planting](https://twitter.com/piu_nacp) | Dustin Connor† | ❌ |
 | [Moore School of Education](https://twitter.com/mooreschoolofed) | Ed Venable† | ❌ |
 | [MSOE Elementary Education](https://twitter.com/MSOE_Elementary) | Ed Venable | ❌ |
 
@@ -75,7 +73,7 @@ Piedmont International University owns the following social media accounts:
 ### LinkedIn
 | Account Name | Responsible Employee(s) | Access Granted |
 |------|------|------|
-| [Piedmont International University](https://www.linkedin.com/school/piedmont-international-university/) | Ian McIlwraith | ❌ |
+| [Piedmont International University](https://www.linkedin.com/school/piedmont-international-university/) | Ian McIlwraith | ✅ |
 
 ### YouTube
 | Account Name | Responsible Employee(s) | Access Granted |
