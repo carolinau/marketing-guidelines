@@ -20,6 +20,7 @@
 * [Horizontal Seal White](https://marketing.piedmontu.edu/logo-assets/horizontal-seal-white.png)
 * [Horizontal Seal Temple Baptist Seminary](https://marketing.piedmontu.edu/logo-assets/horizontal-seal-temple-baptist-seminary.png)
 * [Icon Seal](https://marketing.piedmontu.edu/logo-assets/icon-seal.png)
+* [Icon Seal White](https://marketing.piedmontu.edu/logo-assets/icon-seal-white.png)
 
 ## Bruins
 * [Bruins Main](https://marketing.piedmontu.edu/logo-assets/bruins-main.png)
@@ -36,7 +37,6 @@
 * [Bruins Claw Athletics](https://marketing.piedmontu.edu/logo-assets/bruins-claw-athletics.png)
 * [Bruins Claw Baseball](https://marketing.piedmontu.edu/logo-assets/bruins-claw-baseball.png)
 * [Bruins Claw Basketball](https://marketing.piedmontu.edu/logo-assets/bruins-claw-basketball.png)
-* [Bruins Claw Cross Country](https://marketing.piedmontu.edu/logo-assets/bruins-claw-cross-country.png)
 * [Bruins Claw Soccer](https://marketing.piedmontu.edu/logo-assets/bruins-claw-soccer.png)
 * [Bruins Claw Softball](https://marketing.piedmontu.edu/logo-assets/bruins-claw-softball.png)
 * [Bruins Claw Tennis](https://marketing.piedmontu.edu/logo-assets/bruins-claw-tennis.png)
