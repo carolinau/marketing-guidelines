@@ -19,7 +19,7 @@ Piedmont International University owns the following social media accounts:
 | [PIU Softball](https://www.facebook.com/PIUSoftball) | Shea Miller, Amber Bass | ✅ |
 | [PIU Baseball](https://www.facebook.com/PIUBaseball) | Shea Miller | ✅ |
 | [Manuel Library](https://www.facebook.com/GeorgeMManuelLibrary) | April Lindsey | ✅ |
-| [E4-12](https://www.facebook.com/e4Today) | Dustin Connor† | ❌ |
+| [E4-12](https://www.facebook.com/e4Today) | Ian McIlwraith† | ✅ |
 | [Piedmont International University Portuguese](https://www.facebook.com/PIUPortuguese) | Andre Tavares | ✅ |
 | [Piedmont International University Alumni](https://www.facebook.com/PIUalumni) | Susan Largent | ✅ |
 
@@ -45,7 +45,7 @@ Piedmont International University owns the following social media accounts:
 | [PIU Dining](https://www.instagram.com/piudining/) | Christina Mach | ❌ |
 | [PIU Societies](https://www.instagram.com/piu_societies/) | Kendrick Trogdon | ❌ |
 | [PIU Portuguese](https://www.instagram.com/piuport/) | Andre Tavares | ❌ |
-| [PIU Student Life](https://www.instagram.com/thebruincave/) | Matt Malin | ❌ |
+| [PIU Student Life](https://www.instagram.com/thebruincave/) | Alexia Infante, Matt Malin | ❌ |
 | [Recycle Retreat](https://www.instagram.com/recycleretreat/) | Shean Phillips | ❌ |
 | [PIU Zombies](https://www.instagram.com/piuzombies/) | † | ❌ |
 
@@ -84,3 +84,8 @@ Piedmont International University owns the following social media accounts:
 | Account Name | Responsible Employee(s) | Access Granted |
 |------|------|------|
 | [Piedmont International University](https://vimeo.com/piedmontiu) | Ian McIlwraith, Terrill Gilley | ✅ |
+
+### Livestream
+| Account Name | Responsible Employee(s) | Access Granted |
+|------|------|------|
+| [Piedmont International University](https://livestream.com/piu) | Ian McIlwraith | ❌ |
