@@ -4,8 +4,10 @@ Typography is a powerful brand tool when used consistently. This set of typeface
 ## Mrs Eaves
 [Activate Font from Adobe Fonts (Creative Cloud Subscription Required)](https://fonts.adobe.com/fonts/mrs-eaves)
 * Use primarily for logo, can also be used for marketing efforts 
-* Roman all caps small
+* Roman All Small Caps (primary)
+* OT Roman (larger headings)
 * Web letter-spacing: .1em
+* Desktop letter-spacing: 0.5pt
 
 ## Montserrat
 [Download from Google Fonts](https://fonts.google.com/specimen/Montserrat)
