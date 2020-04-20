@@ -59,3 +59,4 @@
 ## Other
 
 * [Website Favicon](https://marketing.piedmontu.edu/logo-assets/favicon.ico)
+* [Letterhead Logo](https://marketing.piedmontu.edu/logo-assets/horozontal-main-letterhead.png)
