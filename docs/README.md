@@ -42,7 +42,7 @@ Piedmont International University owns the following social media accounts:
 | [PIU Dining](https://www.instagram.com/piudining/) | Christina Mach | ❌ |
 | [PIU Societies](https://www.instagram.com/piu_societies/) | Kendrick Trogdon | ❌ |
 | [PIU Portuguese](https://www.instagram.com/piuport/) | Andre Tavares | ❌ |
-| [PIU Student Life](https://www.instagram.com/thebruincave/) | Alexia Infante, Matt Malin | ❌ |
+| [PIU Student Life](https://www.instagram.com/thebruincave/) | Alexia Infante, Matt Malin | ✅ |
 | [Recycle Retreat](https://www.instagram.com/recycleretreat/) | Shean Phillips | ❌ |
 | [PIU Zombies](https://www.instagram.com/piuzombies/) | † | ❌ |
 
@@ -51,7 +51,7 @@ Piedmont International University owns the following social media accounts:
 ### Twitter
 | Account Name | Responsible Employee(s) | Access Granted |
 |------|------|------|
-| [Piedmont IU](https://twitter.com/piedmontiu) | Ian McIlwraith | ❌ |
+| [Piedmont IU](https://twitter.com/piedmontiu) | Ian McIlwraith | ✅ |
 | [PIU Athletics](https://twitter.com/piubruins) | Shea Miller | ✅ |
 | [PIU Baseball](https://twitter.com/piubaseball) | Shea Miller | ✅ |
 | [PIU Women’s Basketball](https://twitter.com/piuladybruins) | Shea Miller, Toccara Tatum | ✅ |
