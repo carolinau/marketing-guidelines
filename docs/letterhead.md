@@ -1,8 +1,8 @@
 # Letterhead
 ## Word Docs
-- [Generic](/letterhead/generic.dotx)
-- [Registrar](/letterhead/registrar.docx)
-- [Institutional Effectiveness](/letterhead/ie.dotx)
+- [Generic](/letterhead-assets/generic.dotx)
+- [Registrar](/letterhead-assets/registrar.docx)
+- [Institutional Effectiveness](/letterhead-assets/ie.dotx)
 
 ## Google Docs
 - [Generic](https://docs.google.com/document/d/1kDQSK-dRQNPKB0-5lrt9NrZ42elsVp_5PlnPClghHYE/edit?usp=sharing)
