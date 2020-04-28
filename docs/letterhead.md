@@ -3,7 +3,7 @@
 Download these Word document template files to use as a starting point for official letters.
 
 - [Generic](https://marketing.piedmontu.edu/letterhead-assets/generic.dotx)
-- [Registrar](https://marketing.piedmontu.edu/letterhead-assets/registrar.docx)
+- [Registrar](https://marketing.piedmontu.edu/letterhead-assets/registrar.dotx)
 - [Institutional Effectiveness](https://marketing.piedmontu.edu/letterhead-assets/ie.dotx)
 
 ## Google Docs
