@@ -56,7 +56,15 @@
 * [The Den Main](https://marketing.piedmontu.edu/logo-assets/den-main.png)
 * [The Den Icon](https://marketing.piedmontu.edu/logo-assets/den-icon.png)
 
+## Website Favicons
+
+* Main [ICO](https://marketing.piedmontu.edu/logo-assets/main-favicon.ico) | [PNG](https://marketing.piedmontu.edu/logo-assets/main-favicon.png)
+* My PiedmontU [ICO](https://marketing.piedmontu.edu/logo-assets/mypiu-favicon.ico) | [PNG](https://marketing.piedmontu.edu/logo-assets/mypiu-favicon.png)
+* Docs [ICO](https://marketing.piedmontu.edu/logo-assets/mypiu-favicon.ico) | [PNG](https://marketing.piedmontu.edu/logo-assets/mypiu-favicon.png)
+* Library [PNG](https://marketing.piedmontu.edu/logo-assets/library-favicon.png)
+* News [PNG](https://marketing.piedmontu.edu/logo-assets/news-favicon.png)
+* Freshdesk [PNG](https://marketing.piedmontu.edu/logo-assets/freshdesk-favicon.png)
+
 ## Other
 
-* [Website Favicon](https://marketing.piedmontu.edu/logo-assets/favicon.ico)
 * [Letterhead Logo](https://marketing.piedmontu.edu/logo-assets/horizontal-main-letterhead.png)
