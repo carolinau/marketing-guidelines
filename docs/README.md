@@ -40,7 +40,7 @@ Piedmont International University owns the following social media accounts:
 | [PIU XC/TF](https://www.instagram.com/piu_xctf/) | Shea Miller | ✅ |
 | [Moore School of Education](https://www.instagram.com/piuschoolofed/) | Ed Venable | ❌ |
 | [PIU Dining](https://www.instagram.com/piudining/) | Christina Mach | ❌ |
-| [PIU Portuguese](https://www.instagram.com/piuport/) | Andre Tavares | ❌ |
+| [PIU Portuguese](https://www.instagram.com/piuport/) | Andre Tavares | ✅ |
 | [PIU Student Life](https://www.instagram.com/thebruincave/) | Alexia Infante, Matt Malin | ✅ |
 | [Recycle Retreat](https://www.instagram.com/recycleretreat/) | Shean Phillips | ❌ |
 
