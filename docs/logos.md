@@ -69,6 +69,9 @@
 * [The Den Main](https://marketing.piedmontu.edu/logo-assets/den-main.png)
 * [The Den Icon](https://marketing.piedmontu.edu/logo-assets/den-icon.png)
 
+## Manuel Library
+* [Main](https://marketing.piedmontu.edu/logo-assets/manuel-library.png)
+
 ## Website Favicons
 
 * Main [ICO](https://marketing.piedmontu.edu/logo-assets/favicon-main.ico) | [PNG](https://marketing.piedmontu.edu/logo-assets/favicon-main.png)
