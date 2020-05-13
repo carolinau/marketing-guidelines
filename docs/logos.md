@@ -28,6 +28,7 @@
 * [Horizontal](https://marketing.piedmontu.edu/logo-assets/seal-horizontal.png)
 * [Horizontal Text Only](https://marketing.piedmontu.edu/logo-assets/seal-horizontal-text-only.png)
 * [Horizontal White](https://marketing.piedmontu.edu/logo-assets/seal-horizontal-white.png)
+* [Horizontal Office of Institutional Effectiveness](https://marketing.piedmontu.edu/logo-assets/seal-horizontal-office-of-institutional-effectiveness.png)
 * [Horizontal Temple Baptist Seminary](https://marketing.piedmontu.edu/logo-assets/seal-horizontal-temple-baptist-seminary.png)
 * [Icon](https://marketing.piedmontu.edu/logo-assets/seal-icon.png)
 * [Icon Text Only](https://marketing.piedmontu.edu/logo-assets/seal-icon-text-only.png)
