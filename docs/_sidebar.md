@@ -7,6 +7,7 @@
 	* [Logo Downloads](/logos.md)
 	* [Typography](/typography.md)
 	* [Letterhead](/letterhead.md)
+	* [PowerPoint Template](/powerpoint-template.md)
 * Branding Guidelines
 	* [Athletic Brand Management](/athletic-brand-management.md)
 	* [Brand Standards](/brand-standards.md)
