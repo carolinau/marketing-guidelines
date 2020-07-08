@@ -1,8 +1,8 @@
-# Piedmont International University Marketing Guidelines
-> Welcome to the PIU Social Media Guidelines site. This site exists to explain guidelines for PIU branding and submitting content to be posted on the [News](https://news.piedmontu.edu) site as well as on various social media accounts.  
+# Carolina University Marketing Guidelines
+> Welcome to the CU Social Media Guidelines site. This site exists to explain guidelines for CU branding and submitting content to be posted on the [News](https://news.piedmontu.edu) site as well as on various social media accounts.  
 
 ## Social Media Accounts
-Piedmont International University owns the following social media accounts:
+Carolina University owns the following social media accounts:
 
 ### Facebook
 | Account Name | Responsible Employee(s) | Access Granted |
