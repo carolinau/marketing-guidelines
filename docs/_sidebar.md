@@ -2,6 +2,7 @@
 
 * [Home](/)
 * Resources
+	* [Carolina University Branding](/carolina-university-branding.md)
 	* [Color Palette](/color-palette.md)
 	* [Facebook Campaign URL Structure](/facebook-campaign-url-structure.md)
 	* [Logo Downloads](/logos.md)
