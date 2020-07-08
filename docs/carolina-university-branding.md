@@ -10,6 +10,10 @@
 ## Color Scheme
 * Red: ![#B71C1C](https://placehold.it/15/B71C1C/000000?text=+) #B71C1C
 
+## Athletics Color Scheme
+* Gold: ![#D6A103](https://placehold.it/15/D6A103/000000?text=+) #D6A103
+* Dark Blue: ![#091632](https://placehold.it/15/091632/000000?text=+) #091632
+
 ## Seal Colors
 * Blue: ![#002868](https://placehold.it/15/002868/000000?text=+) #002868
 * Yellow: ![#FFCA00](https://placehold.it/15/FFCA00/000000?text=+) #FFCA00
