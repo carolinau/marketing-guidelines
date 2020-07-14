@@ -20,5 +20,6 @@
 	- [Advertising Approval](/advertising-approval.md)
 	* [Social Media Standards](/social-media-standards.md)
 	* [Public Relations and News Media](/public-relations-and-news-media.md)
+	* [Social Media Accounts](/social-media-accounts.md)
 - Website
 	- [Web Standards](/web-standards.md)
