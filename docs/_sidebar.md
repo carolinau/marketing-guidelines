@@ -3,9 +3,7 @@
 * [Home](/)
 * Resources
 	* [Carolina University Branding](/carolina-university-branding.md)
-	* [Color Palette](/color-palette.md)
 	* [Facebook Campaign URL Structure](/facebook-campaign-url-structure.md)
-	* [Logo Downloads](/logos.md)
 	* [Typography](/typography.md)
 	* [Letterhead](/letterhead.md)
 	* [PowerPoint Template](/powerpoint-template.md)
@@ -13,7 +11,7 @@
 	* [Athletic Brand Management](/athletic-brand-management.md)
 	* [Brand Standards](/brand-standards.md)
 	* [Logo Standards](/logo-standards.md)
-	* [Name, Seal, and Logos](/name-seal-logos.md)
+	* [Name and Seal Guidelines](/name-seal-logos.md)
 * Video & Photo Guidelines
 	* [Freelance Video Production/Photography](/freelance-video-production-photography.md)
 	* [Video & Photo Production](/video-photo-production.md)

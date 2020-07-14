@@ -1,7 +1,7 @@
 # Athletic Brand Management
 > It is essential to the success of the brand that the Bruin logo always be applied with care and respect in every application according to the brand guide.  
 
-> Refer to the [Logos](/logos.md) page for full-resolution copies of the logos mentioned.  
+> Refer to the [Carolina University Branding](/carolina-university-branding.md) page for full-resolution copies of the logos mentioned.  
 
 ## Policy Procedures
 Carolina University’s primary athletic logo consists of a wordmark and a character icon. The main lettering is meant to have a passionate and intimidating feel, that plays off of the competitive nature of the athletic program.
