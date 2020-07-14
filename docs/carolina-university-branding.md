@@ -2,12 +2,14 @@
 ## University Seal
 * [Seal](https://marketing.piedmontu.edu/cu-logo-assets/seal.png)
 * [Blue Seal](https://marketing.piedmontu.edu/cu-logo-assets/seal-blue.png)
+* [Email Signature Seal](https://marketing.piedmontu.edu/cu-logo-assets/seal-email.png)
 
 ## Athletics Logos
 * [Bruins Main](https://marketing.piedmontu.edu/cu-logo-assets/bruins-main.png)
 * [Bruins Text](https://marketing.piedmontu.edu/cu-logo-assets/bruins-text.png)
 
 ## Colors
+**Blue** is our primary color, while **yellow** and **red** should be used as accent colors with care.
 ### Blue ![#002868](https://placehold.it/15/002868/000000?text=+)
 * HEX: #002868
 * RGB: (0,40,104)
@@ -16,7 +18,7 @@
 * HEX: #FFCA00
 * RGB: (255,202,0)
 * CMYK: (0%, 21%, 100%, 0%)
-### Red: ![#BF0A30](https://placehold.it/15/BF0A30/000000?text=+)
+### Red ![#BF0A30](https://placehold.it/15/BF0A30/000000?text=+)
 * HEX: #BF0A30
 * RGB: (191,10,48)
 * CMYK: (0%, 95%, 75%, 25%)
