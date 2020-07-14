@@ -1,12 +1,12 @@
 <!-- _coverpage.md -->
 
-![logo](/media/logo.svg)
+![logo](/media/cu-seal.svg)
 
 # Marketing Guidelines
 > Guidelines for branding and marketing content at CU.  
 
-[Get Started](#social-media-accounts)
+[Get Started](/carolina-university-branding.md)
 
 <!-- background color -->
 
-![color](#102648)
+![color](#002868)
