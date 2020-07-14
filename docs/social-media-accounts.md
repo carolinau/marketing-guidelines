@@ -1,7 +1,4 @@
-# Carolina University Marketing Guidelines
-> Welcome to the CU Social Media Guidelines site. This site exists to explain guidelines for CU branding and submitting content to be posted on the [News](https://news.piedmontu.edu) site as well as on various social media accounts.  
-
-## Social Media Accounts
+# Social Media Accounts
 Carolina University owns the following social media accounts:
 
 ### Facebook
