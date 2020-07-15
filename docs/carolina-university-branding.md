@@ -9,6 +9,7 @@
 * [Bruins Text](https://marketing.piedmontu.edu/cu-logo-assets/bruins-text.png)
 * [Bruins Head](https://marketing.piedmontu.edu/cu-logo-assets/bruins-head.png)
 * [Bruins CU Text](https://marketing.piedmontu.edu/cu-logo-assets/bruins-cu-text.png)
+* [Bruins Club](https://marketing.piedmontu.edu/cu-logo-assets/bruins-club.png)
 
 ## Colors
 **Blue** is our primary color, while **yellow** and **red** should be used as accent colors with care.
