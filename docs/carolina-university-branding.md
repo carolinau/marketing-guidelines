@@ -7,6 +7,8 @@
 ## Athletics Logos
 * [Bruins Main](https://marketing.piedmontu.edu/cu-logo-assets/bruins-main.png)
 * [Bruins Text](https://marketing.piedmontu.edu/cu-logo-assets/bruins-text.png)
+* [Bruins Head](https://marketing.piedmontu.edu/cu-logo-assets/bruins-head.png)
+* [Bruins CU Text](https://marketing.piedmontu.edu/cu-logo-assets/bruins-cu-text.png)
 
 ## Colors
 **Blue** is our primary color, while **yellow** and **red** should be used as accent colors with care.
