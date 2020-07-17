@@ -1,6 +1,8 @@
 # Carolina University Branding
 ## University Seal
 * [Seal](https://marketing.piedmontu.edu/cu-logo-assets/seal.png)
+* [Seal Text Dark](https://marketing.piedmontu.edu/cu-logo-assets/seal-text-dark.png)
+* [Seal Text Light](https://marketing.piedmontu.edu/cu-logo-assets/seal-text-light.png)
 * [Blue Seal](https://marketing.piedmontu.edu/cu-logo-assets/seal-blue.png)
 * [Email Signature Seal](https://marketing.piedmontu.edu/cu-logo-assets/seal-email.png)
 
