@@ -5,6 +5,8 @@
 * [Seal Text Light](https://marketing.piedmontu.edu/cu-logo-assets/seal-text-light.png)
 * [Blue Seal](https://marketing.piedmontu.edu/cu-logo-assets/seal-blue.png)
 * [Email Signature Seal](https://marketing.piedmontu.edu/cu-logo-assets/seal-email.png)
+* [Text Dark](https://marketing.piedmontu.edu/cu-logo-assets/text-dark.png)
+* [Text Light](https://marketing.piedmontu.edu/cu-logo-assets/text-light.png)
 
 ## Athletics Logos
 * [Bruins Main](https://marketing.piedmontu.edu/cu-logo-assets/bruins-main.png)
