@@ -29,3 +29,6 @@
 * HEX: #BF0A30
 * RGB: (191,10,48)
 * CMYK: (0%, 95%, 75%, 25%)
+
+### Merged Schools
+Browse logos from merged schools.
