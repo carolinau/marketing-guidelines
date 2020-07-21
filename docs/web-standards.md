@@ -6,7 +6,7 @@ The CU Web Standards apply to all Carolina University web pages and web-based se
 
 ## Procedures
 ### Domain Names
-Domain Names: Carolina University websites are required to have domain names within the piedmontu.edu domain, e.g., piedmontu.edu/admissions or my.piedmontu.edu. External domain names should not host a Carolina University site unless there is a marketing reason for doing so. Use of an external domain name must have prior approval from the Marketing and Communication Department. Any websites outside of the piedmontu.edu domain name must have approval of the Marketing and Communication Department.
+Domain Names: Carolina University websites are required to have domain names within the carolinau.edu domain, e.g., carolinau.edu/admissions or my.piedmontu.edu. External domain names should not host a Carolina University site unless there is a marketing reason for doing so. Use of an external domain name must have prior approval from the Marketing and Communication Department. Any websites outside of the carolinau.edu domain name must have approval of the Marketing and Communication Department.
 
 ### Design
 Carolina University websites must use one of the approved web templates. The templates provide consistent branding and navigation for users. Additional information can be provided by the Marketing and Communication Department.
