@@ -2,9 +2,9 @@
 ## Word Documents
 Download these Word document template files to use as a starting point for official letters.
 
-- [Generic](https://marketing.piedmontu.edu/letterhead-assets/generic.dotx)
-- [Registrar](https://marketing.piedmontu.edu/letterhead-assets/registrar.dotx)
-- [Institutional Effectiveness](https://marketing.piedmontu.edu/letterhead-assets/ie.dotx)
+- [Generic](https://marketing.carolinau.edu/letterhead-assets/generic.dotx)
+- [Registrar](https://marketing.carolinau.edu/letterhead-assets/registrar.dotx)
+- [Institutional Effectiveness](https://marketing.carolinau.edu/letterhead-assets/ie.dotx)
 
 ## Google Docs
 To use the Google Docs letterhead, you’ll need to make your own copy. Go to **File > Make a Copy** and it will copy the letterhead to your Google Drive.

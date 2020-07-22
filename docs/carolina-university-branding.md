@@ -1,19 +1,19 @@
 # Carolina University Branding
 ## University Seal
-* [Seal](https://marketing.piedmontu.edu/cu-logo-assets/seal.png)
-* [Seal Text Dark](https://marketing.piedmontu.edu/cu-logo-assets/seal-text-dark.png)
-* [Seal Text Light](https://marketing.piedmontu.edu/cu-logo-assets/seal-text-light.png)
-* [Blue Seal](https://marketing.piedmontu.edu/cu-logo-assets/seal-blue.png)
-* [Email Signature Seal](https://marketing.piedmontu.edu/cu-logo-assets/seal-email.png)
-* [Text Dark](https://marketing.piedmontu.edu/cu-logo-assets/text-dark.png)
-* [Text Light](https://marketing.piedmontu.edu/cu-logo-assets/text-light.png)
+* [Seal](https://marketing.carolinau.edu/cu-logo-assets/seal.png)
+* [Seal Text Dark](https://marketing.carolinau.edu/cu-logo-assets/seal-text-dark.png)
+* [Seal Text Light](https://marketing.carolinau.edu/cu-logo-assets/seal-text-light.png)
+* [Blue Seal](https://marketing.carolinau.edu/cu-logo-assets/seal-blue.png)
+* [Email Signature Seal](https://marketing.carolinau.edu/cu-logo-assets/seal-email.png)
+* [Text Dark](https://marketing.carolinau.edu/cu-logo-assets/text-dark.png)
+* [Text Light](https://marketing.carolinau.edu/cu-logo-assets/text-light.png)
 
 ## Athletics Logos
-* [Bruins Main](https://marketing.piedmontu.edu/cu-logo-assets/bruins-main.png)
-* [Bruins Text](https://marketing.piedmontu.edu/cu-logo-assets/bruins-text.png)
-* [Bruins Head](https://marketing.piedmontu.edu/cu-logo-assets/bruins-head.png)
-* [Bruins CU Text](https://marketing.piedmontu.edu/cu-logo-assets/bruins-cu-text.png)
-* [Bruins Club](https://marketing.piedmontu.edu/cu-logo-assets/bruins-club.png)
+* [Bruins Main](https://marketing.carolinau.edu/cu-logo-assets/bruins-main.png)
+* [Bruins Text](https://marketing.carolinau.edu/cu-logo-assets/bruins-text.png)
+* [Bruins Head](https://marketing.carolinau.edu/cu-logo-assets/bruins-head.png)
+* [Bruins CU Text](https://marketing.carolinau.edu/cu-logo-assets/bruins-cu-text.png)
+* [Bruins Club](https://marketing.carolinau.edu/cu-logo-assets/bruins-club.png)
 
 ## Colors
 **Blue** is our primary color, while **yellow** and **red** should be used as accent colors with care.
