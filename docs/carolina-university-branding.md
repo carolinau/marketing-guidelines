@@ -4,6 +4,8 @@
 * [Seal Text Dark](https://marketing.carolinau.edu/cu-logo-assets/seal-text-dark.png)
 * [Seal Text Light](https://marketing.carolinau.edu/cu-logo-assets/seal-text-light.png)
 * [Blue Seal](https://marketing.carolinau.edu/cu-logo-assets/seal-blue.png)
+* [Blue Seal Text Dark](https://marketing.carolinau.edu/cu-logo-assets/seal-blue-text-dark.png)
+* [Blue Seal Text Light](https://marketing.carolinau.edu/cu-logo-assets/seal-blue-text-light.png)
 * [Email Signature Seal](https://marketing.carolinau.edu/cu-logo-assets/seal-email.png)
 * [Text Dark](https://marketing.carolinau.edu/cu-logo-assets/text-dark.png)
 * [Text Light](https://marketing.carolinau.edu/cu-logo-assets/text-light.png)
