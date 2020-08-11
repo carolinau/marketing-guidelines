@@ -4,4 +4,4 @@
 
 Download this PowerPoint template to use in your presentations.
 
-- [Template](https://marketing.piedmontu.edu/powerpoint-assets/cu-powerpoint-template.potx)
+- [Template](https://marketing.carolinau.edu/powerpoint-assets/cu-powerpoint-template.potx)
