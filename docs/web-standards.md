@@ -15,7 +15,7 @@ Carolina University websites must use one of the approved web templates. The tem
 Carolina University web pages must provide up-to-date contact information (name, address, and email) for users to contact a Carolina University department or organization.
 
 ### Ensuring Accuracy
-Carolina University web pages must be continuously maintained. Review and necessary revision ensure all Carolina University content is relevant and up-to-date, as required by the specific area/unit web administrator. Please direct all website requests and changes to the Website Ticketing System by emailing your requests to: webmaster@piedmontu.edu. These requests must be detailed and include the URL of the webpage in question.
+Carolina University web pages must be continuously maintained. Review and necessary revision ensure all Carolina University content is relevant and up-to-date, as required by the specific area/unit web administrator. Please direct all website requests and changes to the Website Ticketing System by emailing your requests to: webmaster@carolinau.edu. These requests must be detailed and include the URL of the webpage in question.
 
 ### Confidential Information
 Carolina University will not publish confidential information on its web pages.
