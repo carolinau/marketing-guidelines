@@ -25,9 +25,6 @@
 * RGB: (191,10,48)
 * CMYK: (0%, 95%, 75%, 25%)
 
-### Merged Schools
-Browse logos from merged schools.
-
 ## Athletics Logos
 * [Bruins Main](https://marketing.carolinau.edu/cu-logo-assets/bruins-main.png)
 * [Bruins Text](https://marketing.carolinau.edu/cu-logo-assets/bruins-text.png)
