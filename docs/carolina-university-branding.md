@@ -15,15 +15,15 @@
 ### Blue ![#002868](https://placehold.it/15/002868/000000?text=+)
 * HEX: #002868
 * RGB: (0,40,104)
-* CMYK: (100%, 62%, 0%, 59%)
+* CMYK: (96%, 80%, 10%, 30%)
 ### Yellow ![#FFCA00](https://placehold.it/15/FFCA00/000000?text=+)
 * HEX: #FFCA00
 * RGB: (255,202,0)
-* CMYK: (0%, 21%, 100%, 0%)
+* CMYK: (1%, 17%, 90%, 2%)
 ### Red ![#BF0A30](https://placehold.it/15/BF0A30/000000?text=+)
 * HEX: #BF0A30
 * RGB: (191,10,48)
-* CMYK: (0%, 95%, 75%, 25%)
+* CMYK: (4%, 97%, 78%, 12%)
 
 ## Athletics Logos
 * [Bruins Main](https://marketing.carolinau.edu/cu-logo-assets/bruins-main.png)
