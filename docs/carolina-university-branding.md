@@ -53,3 +53,9 @@
 * [Bruins CU Claw Women's Basketball](https://marketing.carolinau.edu/cu-logo-assets/bruins-cu-claw-womens-basketball.png)
 * [Bruins CU Claw Women's Soccer](https://marketing.carolinau.edu/cu-logo-assets/bruins-cu-claw-womens-soccer.png)
 * [Bruins CU Claw Women's Volleyball](https://marketing.carolinau.edu/cu-logo-assets/bruins-cu-claw-womens-volleyball.png)
+
+## Campus Life Logos
+* [Campus Life Bruin Blue](https://marketing.carolinau.edu/cu-logo-assets/campus-life-bruin-blue.png)
+* [Campus Life Bruin Yellow](https://marketing.carolinau.edu/cu-logo-assets/campus-life-bruin-yellow.png)
+* [Campus Life CU Stacked](https://marketing.carolinau.edu/cu-logo-assets/campus-life-cu-stacked.png)
+* [Campus Life Horizontal](https://marketing.carolinau.edu/cu-logo-assets/campus-life-horizontal.png)
