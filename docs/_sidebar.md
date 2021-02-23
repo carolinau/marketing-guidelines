@@ -9,6 +9,5 @@
 	* [PowerPoint Template](/powerpoint-template.md)
 * Branding Guidelines
 	* [Athletic Brand Management](/athletic-brand-management.md)
-	* [Brand Standards](/brand-standards.md)
 	* [Logo Standards](/logo-standards.md)
 	* [Name and Seal Guidelines](/name-seal-logos.md)
