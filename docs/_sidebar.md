@@ -12,14 +12,3 @@
 	* [Brand Standards](/brand-standards.md)
 	* [Logo Standards](/logo-standards.md)
 	* [Name and Seal Guidelines](/name-seal-logos.md)
-* Video & Photo Guidelines
-	* [Freelance Video Production/Photography](/freelance-video-production-photography.md)
-	* [Video & Photo Production](/video-photo-production.md)
-	* [Video/Photography Permission/Model Releases](/video-photography-permission-model-releases.md)
-- Social Media & Press Guidelines
-	- [Advertising Approval](/advertising-approval.md)
-	* [Social Media Standards](/social-media-standards.md)
-	* [Public Relations and News Media](/public-relations-and-news-media.md)
-	* [Social Media Accounts](/social-media-accounts.md)
-- Website
-	- [Web Standards](/web-standards.md)
