@@ -17,4 +17,15 @@
 -  Always use lowercase letters-  Use underscores (_) instead of spaces between words-  Use the same source, medium, name, and term for different ads within an ad group
 
 ## Degree Type Abbreviations
-* ma = master of arts* ba = bachelor of arts* bs = bachelor of science* bba = bachelor of business administration* mba = master of business administration* phd = doctor of philosophy* mdiv = master of divinity* dmin = doctor of ministry* conc = concentration* gc = graduate certification* med = master of education
+* conc = concentration
+* aa = associate of arts
+* ba = bachelor of arts
+* bs = bachelor of science
+* bba = bachelor of business administration
+* ma = master of arts
+* mds = mastor of data science
+* mfp = master of financial planning
+* mba = master of business administration
+* med = master of education
+* mdiv = master of divinity
+* phd = doctor of philosophy
