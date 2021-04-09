@@ -12,17 +12,17 @@
 
 ## Colors
 **Blue** is our primary color, while **yellow** and **red** should be used as accent colors with care.
-### Blue ![#002868](https://placehold.it/15/002868/000000?text=+)
+### Blue ![#002868](http://placehold.it/15/002868/000000?text=+)
 * HEX: #002868
 * RGB: (0,40,104)
 * CMYK: (96%, 80%, 10%, 30%)
 * Pantone: 280 C
-### Yellow ![#FFCA00](https://placehold.it/15/FFCA00/000000?text=+)
+### Yellow ![#FFCA00](http://placehold.it/15/FFCA00/000000?text=+)
 * HEX: #FFCA00
 * RGB: (255,202,0)
 * CMYK: (1%, 17%, 90%, 2%)
 * Pantone: 116 C
-### Red ![#BF0A30](https://placehold.it/15/BF0A30/000000?text=+)
+### Red ![#BF0A30](http://placehold.it/15/BF0A30/000000?text=+)
 * HEX: #BF0A30
 * RGB: (191,10,48)
 * CMYK: (4%, 97%, 78%, 12%)
