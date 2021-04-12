@@ -59,3 +59,7 @@
 * [Campus Life Bruin Yellow](https://marketing.carolinau.edu/cu-logo-assets/campus-life-bruin-yellow.png)
 * [Campus Life CU Stacked](https://marketing.carolinau.edu/cu-logo-assets/campus-life-cu-stacked.png)
 * [Campus Life Horizontal](https://marketing.carolinau.edu/cu-logo-assets/campus-life-horizontal.png)
+
+
+## Library Logo
+* [Library](https://marketing.carolinau.edu/cu-logo-assets/library.png)
