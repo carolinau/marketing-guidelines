@@ -15,17 +15,17 @@
 ### Blue ![#002868](http://placehold.it/15/002868/000000?text=+)
 * HEX: #002868
 * RGB: (0,40,104)
-* CMYK: (96%, 80%, 10%, 30%)
+* CMYK: (100%, 92%, 30%, 23%)
 * Pantone: 280 C
 ### Yellow ![#FFCA00](http://placehold.it/15/FFCA00/000000?text=+)
 * HEX: #FFCA00
 * RGB: (255,202,0)
-* CMYK: (1%, 17%, 90%, 2%)
+* CMYK: (0%, 20%, 100%, 0%)
 * Pantone: 116 C
 ### Red ![#BF0A30](http://placehold.it/15/BF0A30/000000?text=+)
 * HEX: #BF0A30
 * RGB: (191,10,48)
-* CMYK: (4%, 97%, 78%, 12%)
+* CMYK: (17%, 100%, 86%, 7%)
 * Pantone: 200 C
 
 ## Athletics Logos
