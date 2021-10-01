@@ -17,12 +17,12 @@
 * RGB: (0,40,104)
 * CMYK: (100%, 92%, 30%, 23%)
 * Pantone: 280 C
-### Yellow ![#FFCA00](http://placehold.it/15/FFCA00/000000?text=+)
+### Yellow [#FFCA00]
 * HEX: #FFCA00
 * RGB: (255,202,0)
 * CMYK: (0%, 20%, 100%, 0%)
 * Pantone: 116 C
-### Red ![#BF0A30](http://placehold.it/15/BF0A30/000000?text=+)
+### Red [#BF0A30]
 * HEX: #BF0A30
 * RGB: (191,10,48)
 * CMYK: (17%, 100%, 86%, 7%)
