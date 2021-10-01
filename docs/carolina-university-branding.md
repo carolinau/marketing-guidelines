@@ -12,7 +12,7 @@
 
 ## Colors
 **Blue** is our primary color, while **yellow** and **red** should be used as accent colors with care.
-### Blue ![#002868](http://placehold.it/15/002868/000000?text=+)
+### Blue [#002868]
 * HEX: #002868
 * RGB: (0,40,104)
 * CMYK: (100%, 92%, 30%, 23%)
