@@ -9,6 +9,8 @@
 * [Email Signature Seal](https://marketing.carolinau.edu/cu-logo-assets/seal-email.png)
 * [Text Dark](https://marketing.carolinau.edu/cu-logo-assets/text-dark.png)
 * [Text Light](https://marketing.carolinau.edu/cu-logo-assets/text-light.png)
+* [Seal Text Below Light](https://carolinau.edu/sites/default/files/seal-text-below-light.png)
+* [Seal Text Below Dark](https://carolinau.edu/sites/default/files/seal-text-below-dark.png)
 
 ## Colors
 **Blue** is our primary color, while **yellow** and **red** should be used as accent colors with care.
