@@ -30,32 +30,6 @@
 * CMYK: (17%, 100%, 86%, 7%)
 * Pantone: 200 C
 
-## Athletics Logos
-* [Bruins Main](https://marketing.carolinau.edu/cu-logo-assets/bruins-main.png)
-* [Bruins Text](https://marketing.carolinau.edu/cu-logo-assets/bruins-text.png)
-* [Bruins Head](https://marketing.carolinau.edu/cu-logo-assets/bruins-head.png)
-* [Bruins CU Text](https://marketing.carolinau.edu/cu-logo-assets/bruins-cu-text.png)
-* [Bruins Club](https://marketing.carolinau.edu/cu-logo-assets/bruins-club.png)
-* [Bruins CU Claw](https://marketing.carolinau.edu/cu-logo-assets/bruins-cu-claw.png)
-* [Bruins CU Claw Athletics](https://marketing.carolinau.edu/cu-logo-assets/bruins-cu-claw-athletics.png)
-* [Bruins CU Claw Baseball](https://marketing.carolinau.edu/cu-logo-assets/bruins-cu-claw-baseball.png)
-* [Bruins CU Claw Basketball](https://marketing.carolinau.edu/cu-logo-assets/bruins-cu-claw-basketball.png)
-* [Bruins CU Claw Cheerleading](https://marketing.carolinau.edu/cu-logo-assets/bruins-cu-claw-cheerleading.png)
-* [Bruins CU Claw Cross Country](https://marketing.carolinau.edu/cu-logo-assets/bruins-cu-claw-cross-country.png)
-* [Bruins CU Claw Esports](https://marketing.carolinau.edu/cu-logo-assets/bruins-cu-claw-esports.png)
-* [Bruins CU Claw Men's Basketball](https://marketing.carolinau.edu/cu-logo-assets/bruins-cu-claw-mens-basketball.png)
-* [Bruins CU Claw Men's Soccer](https://marketing.carolinau.edu/cu-logo-assets/bruins-cu-claw-mens-soccer.png)
-* [Bruins CU Claw Men's Volleyball](https://marketing.carolinau.edu/cu-logo-assets/bruins-cu-claw-mens-volleyball.png)
-* [Bruins CU Claw Running](https://marketing.carolinau.edu/cu-logo-assets/bruins-cu-claw-running.png)
-* [Bruins CU Claw Soccer](https://marketing.carolinau.edu/cu-logo-assets/bruins-cu-claw-soccer.png)
-* [Bruins CU Claw Softball](https://marketing.carolinau.edu/cu-logo-assets/bruins-cu-claw-softball.png)
-* [Bruins CU Claw Tennis](https://marketing.carolinau.edu/cu-logo-assets/bruins-cu-claw-tennis.png)
-* [Bruins CU Claw Track & Field](https://marketing.carolinau.edu/cu-logo-assets/bruins-cu-claw-track-field.png)
-* [Bruins CU Claw Volleyball](https://marketing.carolinau.edu/cu-logo-assets/bruins-cu-claw-volleyball.png)
-* [Bruins CU Claw Women's Basketball](https://marketing.carolinau.edu/cu-logo-assets/bruins-cu-claw-womens-basketball.png)
-* [Bruins CU Claw Women's Soccer](https://marketing.carolinau.edu/cu-logo-assets/bruins-cu-claw-womens-soccer.png)
-* [Bruins CU Claw Women's Volleyball](https://marketing.carolinau.edu/cu-logo-assets/bruins-cu-claw-womens-volleyball.png)
-
 ## Campus Life Logos
 * [Campus Life Bruin Blue](https://marketing.carolinau.edu/cu-logo-assets/campus-life-bruin-blue.png)
 * [Campus Life Bruin Yellow](https://marketing.carolinau.edu/cu-logo-assets/campus-life-bruin-yellow.png)
