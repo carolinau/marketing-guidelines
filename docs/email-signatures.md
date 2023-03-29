@@ -26,6 +26,7 @@ Please note that the CU logo and general university information will automatical
  420 S. Broad St.  |  Winston-Salem, NC  27101  
  800.937.5097  |  www.carolinau.edu   
   
-  
+  ![](cu-logo-assets/seal-email.png)
+***  
 This email and any files transmitted with it are confidential and intended solely for the use of the individual or entity to whom they are addressed. If you have received this email in error please notify the sender immediately.  Any views or opinions presented in this email are solely those of the author and do not necessarily represent those of Carolina University.  Additionally, it is the recipient’s responsibility to check this email and any attachments for the presence of viruses. Carolina University accepts no liability for any damage caused by any virus transmitted by this email.
 
