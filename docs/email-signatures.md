@@ -4,8 +4,8 @@ To change your email signature in Gmail, click settings – see all settings –
 
 All CU Employees should use the following layout for their default signature.  No other text, quotes, phrases, or links should be used without administrative approval in advance.  All font should be Arial (when available) or Sans Serif.
 
-Name and Credential [bold, 12pt or “Large” in Gmail]  
-Title [italics, 11pt or “Normal” in Gmail]  
+**Name and Credential** [bold, 12pt or “Large” in Gmail]  
+*Title* [italics, 11pt or “Normal” in Gmail]  
 Office: (phone number) | Email: (email address) [11pt or “Normal” in Gmail]  
 
 Example:  
