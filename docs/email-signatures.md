@@ -14,8 +14,6 @@ Example:
 	*Associate Professor of Examples*  
 	Office: Deeds Hall 202
 	336-714-9999  |  samplej@carolinau.edu
-	
-	
 	[Learn More About Our Criminal Justice Program] (https://sas.carolinau.edu/program/bachelor-arts/criminal-justice)
 
 Example with 2 titles:  
@@ -24,7 +22,6 @@ Example with 2 titles:
 	*Assistant Basket Weaving Coach*  
 	Office: Stevens Hall 205
 	336-714-9999  |  samplej@carolinau.edu 
-	
 	[Bruins Athletics Website] (https://cubruins.com/sports/softball)
 
 
