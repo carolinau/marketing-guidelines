@@ -15,7 +15,7 @@ Example:
 	Office: Deeds Hall 202
 	336-714-9999  |  samplej@carolinau.edu  
 	
-	Learn More About Our Criminal Justice Program
+	[Learn More About Our Criminal Justice Program(https://sas.carolinau.edu/program/bachelor-arts/criminal-justice)
 
 Example with 2 titles:  
 	**Coach Susan G. Sample**  
@@ -24,7 +24,7 @@ Example with 2 titles:
 	Office: Stevens Hall 205
 	336-714-9999  |  samplej@carolinau.edu 
 	
-	Bruins Athletics Website 
+	[Bruins Athletics Website](https://cubruins.com/sports/softball)
 
 
 Please note that the CU logo and general university information will automatically be added to outgoing emails (emails sent outside the carolinau.edu domain).  Below is what will be added automatically:
