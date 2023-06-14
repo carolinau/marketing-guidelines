@@ -6,25 +6,27 @@ All CU Employees should use the following layout for their default signature.  N
 
 **Name and Credential** [bold, 12pt or “Large” in Gmail]  
 *Title* [italics, 11pt or “Normal” in Gmail]  
-Office: Building and Number (if applicable) [11pt or "Normal" in Gmail]
+Office: Building and Number (if applicable) [11pt or "Normal" in Gmail]  
 office number | email address [11pt or “Normal” in Gmail]  
-
+  
+CU weblink or other approved link (if desired) [11pt or “Normal” in Gmail]  
+<br/><br/>
 Example:  
 	**John L. Sample, Ph.D.**  
 	*Associate Professor of Examples*  
-	Office: Deeds Hall 202
-	336-714-9999  |  samplej@carolinau.edu  
+	Office: Deeds Hall 202  
+	336-714-9999  |  samplej@carolinau.edu<br/><br/>
 	[Learn More About Our Criminal Justice Program](https://sas.carolinau.edu/program/bachelor-arts/criminal-justice)
 
 Example with 2 titles:  
 	**Coach Susan G. Sample**  
 	*Director of Random Things*  
 	*Assistant Basket Weaving Coach*  
-	Office: Stevens Hall 205
-	336-714-9999  |  samplej@carolinau.edu  
+	Office: Stevens Hall 205  
+	336-714-9999  |  samplej@carolinau.edu<br/><br/>
 	[Bruins Athletics Website](https://cubruins.com/sports/softball)
 
-
+<br/><br/>
 Please note that the CU logo and general university information will automatically be added to outgoing emails (emails sent outside the carolinau.edu domain).  Below is what will be added automatically:
 
  **Carolina University**  
