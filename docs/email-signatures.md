@@ -18,6 +18,7 @@ Example:
 	336-714-9999  |  samplej@carolinau.edu<br/><br/>
 	[Learn More About Our Criminal Justice Program](https://sas.carolinau.edu/program/bachelor-arts/criminal-justice)
 
+<br/><br/>
 Example with 2 titles:  
 	**Coach Susan G. Sample**  
 	*Director of Random Things*  
