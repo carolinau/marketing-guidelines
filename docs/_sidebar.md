@@ -10,6 +10,7 @@
 	* [Email Signatures](/email-signatures.md)
 	* [PowerPoint Template](/powerpoint-template.md)
 	* [Virtual Backgrounds](/virtual-backgrounds.md)
+
 * Branding Guidelines
 	* [Athletic Brand Management](/athletic-brand-management.md)
 	* [Logo Standards](/logo-standards.md)
